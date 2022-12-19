@@ -1,0 +1,25 @@
+
+# this is an example # of a comment  
+
+void main ( void ) {
+
+    int x ;
+    int t = 2.0 ;
+    int x = 1004500 ;
+    y = 4 + 2 ;
+    z = a+23;
+    while (x <= 10) {
+        write(x);
+        write(fact(x));
+        writeln();
+        x = x +1;
+    }
+    int t = 3;
+
+    if(i>40){
+        bruh("succes\tsfull \n ");
+    }
+    else {
+        bruh( " This is an invalid String new line " );
+    }
+}
